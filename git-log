@@ -1,0 +1,66 @@
+commit 6ee43d4d125685e1e47060549d0b660b977f716f
+Author: JJ Lee <jjlee@seas.upenn.edu>
+Date:   Fri Mar 27 23:53:48 2015 -0400
+
+    changed README.md
+
+commit dfde4cb90c02199e0e5be69fcd00c75a81acf352
+Merge: 75d685b 5560e1e
+Author: JJ Lee <jjlee@seas.upenn.edu>
+Date:   Fri Mar 27 23:51:45 2015 -0400
+
+    Merge branch 'master' of https://github.com/dlwownssla17/dotfiles
+
+commit 5560e1edcb0b6e752ff3a0c4ad7fc1d870123d0a
+Author: dlwownssla17 <dlwownssla17@gmail.com>
+Date:   Sat Mar 28 00:13:59 2015 -0400
+
+    Delete ssh_config
+
+commit 75d685b3cff27e6d9a39ee0fc89da9fd0ffd187c
+Author: JJ Lee <jjlee@seas.upenn.edu>
+Date:   Fri Mar 27 23:51:12 2015 -0400
+
+    third commit
+
+commit afb9316e886491ba96e14349296e546cbefd8436
+Author: JJ Lee <jjlee@seas.upenn.edu>
+Date:   Fri Mar 27 23:48:47 2015 -0400
+
+    third commit
+
+commit 0fec7be9987d578a231b5021182ba0973f8fb7e0
+Author: JJ Lee <jjlee@seas.upenn.edu>
+Date:   Fri Mar 27 23:46:14 2015 -0400
+
+    second commit
+
+commit ba31c40c872215478c00eec867de9ffb5d804925
+Author: JJ Lee <jjlee@seas.upenn.edu>
+Date:   Fri Mar 27 23:35:33 2015 -0400
+
+    First commit
+
+commit a88556fefd9d44980145d41c2a65112df1623d5f
+Author: JJ Lee <jjlee@seas.upenn.edu>
+Date:   Fri Mar 27 23:22:39 2015 -0400
+
+    First commit
+
+commit ecabe68ea63946d961068739801b06f4e1f09a17
+Author: JJ Lee <jjlee@seas.upenn.edu>
+Date:   Fri Mar 27 22:44:43 2015 -0400
+
+    first commit
+
+commit 5f2e99943ba93ab4a16c8c14a5c7e9a901efa5d6
+Author: dlwownssla17 <dlwownssla17@gmail.com>
+Date:   Sat Mar 28 00:07:16 2015 -0400
+
+    Delete README.md
+
+commit d1ec4e3ae178e4b4a337d427a872ae1ac3727a79
+Author: dlwownssla17 <dlwownssla17@gmail.com>
+Date:   Fri Mar 27 23:42:19 2015 -0400
+
+    Create README.md
